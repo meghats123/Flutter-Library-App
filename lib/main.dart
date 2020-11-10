@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text("Library App"),
-          backgroundColor: Colors.green,
+          backgroundColor: Colors.pink,
         ),
         body: Container(
           padding: EdgeInsets.all(10.0),
